@@ -4,7 +4,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SwitzerChees/m183-starter
+   git clone https://github.com/Rytryx/Modul183_AB03
    ```
 2. Install NPM packages
    ```sh
